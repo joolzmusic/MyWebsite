@@ -14,3 +14,6 @@ Technology stack:
 * Boxicons
 * GitHub Pages
 * External Services
+
+Why use MIT:
+The MIT License is a permissive open-source software license, granting users the freedom to use, modify, and distribute the software with minimal restrictions, as long as the original license and disclaimer are included.
