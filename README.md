@@ -15,5 +15,5 @@ Technology stack:
 * GitHub Pages
 * External Services
 
-Why use MIT:
-The MIT License is a permissive open-source software license, granting users the freedom to use, modify, and distribute the software with minimal restrictions, as long as the original license and disclaimer are included.
+Why use GNU:
+GNU software is valued for its open-source nature, fostering community support and transparency in development. Users appreciate its stability, reliability, and extensive customization options, making it a versatile and cost-effective choice for various applications
