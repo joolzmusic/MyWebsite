@@ -2,7 +2,7 @@
 function downloadCV() {
   var link = document.createElement('a');
   link.href = '/resume/CS_resume1.pdf'; // Replace with the actual path to your CV file
-  link.download = 'CS_resume.pdf'; // Specify the desired filename for the download
+  link.download = 'CS_resume1.pdf'; // Specify the desired filename for the download
   document.body.appendChild(link);
   link.click();
   document.body.removeChild(link);
